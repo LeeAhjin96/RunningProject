@@ -50,5 +50,15 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 # 간단한 메인 결과물
 
+![login](https://github.com/LeeAhjin96/RunningProject/assets/129921901/42b80889-d032-4d66-8e9c-9362e2e97a34)
+
+![2](https://github.com/LeeAhjin96/RunningProject/assets/129921901/65edee52-88ec-49cf-ae1f-bde3d37d3199)
+
+![3](https://github.com/LeeAhjin96/RunningProject/assets/129921901/d6dc65cb-e2db-4465-887f-95a818c05177)
+
+![4](https://github.com/LeeAhjin96/RunningProject/assets/129921901/eb482ca3-9602-428e-ad2c-19bd97690b00)
+
+
+
 
 
